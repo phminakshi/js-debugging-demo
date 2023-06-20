@@ -1,2 +1,2 @@
-# js-debugging-demo
+# Javascript Debugging Demo
 Javascript Debugging Demo
